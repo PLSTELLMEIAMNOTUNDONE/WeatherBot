@@ -1,0 +1,17 @@
+org\example\models\User.class
+org\example\bots\TgFacade.class
+org\example\repos\UserRepository.class
+org\example\commands\States.class
+org\example\bots\HerokuBot.class
+org\example\config\AppConfig.class
+org\example\controllers\WebHookController.class
+org\example\service\WeatherService.class
+org\example\commands\Queries.class
+org\example\utility\Translator.class
+org\example\dao\UserDAO.class
+org\example\Main.class
+org\example\commands\Cities.class
+org\example\commands\Buttons.class
+org\example\service\UserService.class
+org\example\config\TelegramBotConfig.class
+org\example\models\WeatherModel.class
