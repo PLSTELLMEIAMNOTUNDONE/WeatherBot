@@ -11,12 +11,5 @@ public class Main {
     public static void main(String[] args) {
         SpringApplication.run(Main.class, args);
     }
-    public static void test(String[] args){
-        try {
-            System.out.println(Translator.translateRuToEn("Привет мир"));
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
-
-    }
+    
 }
